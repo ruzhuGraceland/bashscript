@@ -1,2 +1,2 @@
-echo HELLO, today is
+echo HELLO $USER, today is
 date
